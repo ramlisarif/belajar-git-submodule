@@ -1,6 +1,9 @@
-function seyhello(name){
- return "hello " + name;
+function seyhello(name) {
+  return "hello " + name;
 }
-function seyguest(){
+function seyguest() {
   return "hello";
+}
+function sum(a, b) {
+  return a + b;
 }
